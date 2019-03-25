@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-microservice",
+  "version": "1.0.0",
+  "description": "Simple way to send messages",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^3.0.4"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
